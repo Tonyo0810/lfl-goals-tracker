@@ -11,6 +11,10 @@
     "ios": {
       "supportsTablet": true
     },
+<<<<<<< HEAD
+=======
+    //dfasfa
+>>>>>>> 80563d0863efb51925771eaa33368dc3c253ea2a
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",

@@ -14,15 +14,24 @@
   "jest": {
     "preset": "jest-expo"
   },
+<<<<<<< HEAD
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
     "@react-native-firebase/app": "^23.2.1",
+=======
+  //asafs
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.2",
+>>>>>>> 80563d0863efb51925771eaa33368dc3c253ea2a
     "@react-navigation/bottom-tabs": "^7.2.0",
     "@react-navigation/native": "^7.0.14",
     "expo": "^53.0.8",
     "expo-blur": "~14.1.4",
     "expo-constants": "~17.1.6",
+<<<<<<< HEAD
     "expo-dev-client": "~5.2.4",
+=======
+>>>>>>> 80563d0863efb51925771eaa33368dc3c253ea2a
     "expo-font": "~13.3.1",
     "expo-haptics": "~14.1.4",
     "expo-linking": "~7.1.4",
@@ -32,7 +41,10 @@
     "expo-symbols": "~0.4.4",
     "expo-system-ui": "~5.0.7",
     "expo-web-browser": "~14.2.0",
+<<<<<<< HEAD
     "firebase": "^12.2.1",
+=======
+>>>>>>> 80563d0863efb51925771eaa33368dc3c253ea2a
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-native": "0.79.5",
